@@ -18,11 +18,8 @@ git clone https://gitlab.com/sortie/meaty-skeleton.git
 Many thanks.
 
 Special shout outs to Nick Blundell_
-
 .. _Blundell: http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf
-
 and Carlos Fenollosa_.
-
 .. _Fenollosa: https://github.com/cfenollosa/os-tutorial
 
 
