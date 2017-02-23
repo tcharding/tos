@@ -1,3 +1,4 @@
+#include <stack_chk.h>
 #include <string.h>
 
 int memcmp(const void *aptr, const void *bptr, size_t size)

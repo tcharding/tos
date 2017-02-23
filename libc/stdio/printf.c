@@ -1,3 +1,4 @@
+#include <stack_chk.h>
 #include <limits.h>
 #include <stdbool.h>
 #include <stdarg.h>

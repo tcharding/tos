@@ -1,3 +1,4 @@
+#include <stack_chk.h>
 #include <string.h>
 
 void *memset(void *bufptr, int value, size_t size)

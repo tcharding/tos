@@ -1,3 +1,4 @@
+#include <stack_chk.h>
 #include <stdio.h>
 
 #include <kernel/tty.h>
